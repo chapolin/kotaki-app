@@ -1,0 +1,28 @@
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=alinhamento&sensor=false&key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM
+https://maps.googleapis.com/maps/api/place/search/json?keyword=hotel&sensor=false&location=-23.4856927,-46.6981842&key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM&location=-23.4856927,-46.6981842&radius=50000
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM&location=-23.4856927,-46.6981842&radius=5000&keyword=Alinhamento
+
+https://maps.googleapis.com/maps/api/place/radarsearch/json?key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM&location=-23.4856927,-46.6981842&radius=5000&keyword=Alinhamento
+
+https://maps.googleapis.com/maps/api/place/radarsearch/json?key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM&location=-23.4856927,-46.6981842&radius=5000&keyword=doce
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM&location=-23.4856927,-46.6981842&radius=10000&keyword=Rodas&rankby=distance
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM&location=-23.4856927,-46.6981842&keyword=Rodas&rankby=distance
+
+https://maps.googleapis.com/maps/api/place/radarsearch/json?key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM&location=-23.4856927,-46.6981842&radius=50000&keyword=Alinhamento
+
+Ranking por distancia:
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM&location=-23.4856927,-46.6981842&keyword=Rodas&rankby=distance
+
+Raking Normal:
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM&location=-23.4856927,-46.6981842&keyword=Rodas&radius=5000
+
+
+
+
+Example:
+https://maps.googleapis.com/maps/api/place/radarsearch/json?location=51.503186,-0.126446&radius=5000&key=AIzaSyAuJ3l1p_ehh2VNTvGdCaT1Smncttkj_JM
